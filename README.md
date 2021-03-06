@@ -1,0 +1,1 @@
+# Vanilla JavaScript practice projects and tutorials
